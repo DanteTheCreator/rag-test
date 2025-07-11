@@ -93,12 +93,6 @@ The pipeline consists of four main stages:
 
 ---
 
-## 📤 Submission & Contact
-
-1. Push your code and docs to GitHub.
-2. Email the repo link to:
-   - alessandro@daily8.com
-   - Confirm via chip@daily8.com
 
 ---
 
