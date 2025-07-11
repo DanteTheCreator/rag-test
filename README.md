@@ -92,10 +92,3 @@ The pipeline consists of four main stages:
 - **`cache/`**: Stores the vector index and cache files
 
 ---
-
-
----
-
-## 📄 License
-
-MIT License (or specify your own)
